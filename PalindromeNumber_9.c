@@ -1,0 +1,45 @@
+/*Given an integer x, return true if x is a , and false otherwise.
+
+Example 1:
+
+Input: x = 121
+Output: true
+Explanation: 121 reads as 121 from left to right and from right to left.
+
+Example 2:
+
+Input: x = -121
+Output: false
+Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+
+Example 3:
+
+Input: x = 10
+Output: false
+Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+*/
+
+# include <stdio.h>
+# include <stdbool.h>
+
+bool isPalindrome(int x){
+    if(x < 0){ return false; }    
+    if(x % 10 == 0 && x != 0){ return false; }
+
+    int inverted = 0;
+
+    while(x > inverted){
+        inverted = inverted * 10 + x % 10;
+        x /= 10;
+    }
+
+    return (x == inverted || x == inverted / 10) ? true : false;
+}
+
+int main(){
+    int x = 10;
+
+    printf("%d", isPalindrome(x));
+
+    return 0;
+}
