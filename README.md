@@ -10,4 +10,5 @@
 | 27 | Remove Element | C | 0 ms | 10.33 MB |
 | 28 | Find The Index Of The First Occurrence In A String | C | 131 ms | 8.94 MB |
 | 58 | Length Of Last Word | C <br> Python 3 | 0 ms <br> 0 ms | 8.80 MB <br> 17.63 MB |
+| 66 | Plus One | C <br> Python 3 | 0 ms <br> 0 ms | 10.07 <br> 17.92 MB |
 | 389 | Find The Difference | C <br> Python 3 | 0 ms <br> 3 ms | 8.82 MB <br> 17.72 MB |
