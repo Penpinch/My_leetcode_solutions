@@ -12,4 +12,4 @@
 | 58 | Length Of Last Word | C <br> Python 3 | 0 ms <br> 0 ms | 8.80 MB <br> 17.63 MB | Easy |
 | 66 | Plus One | C <br> Python 3 | 0 ms <br> 0 ms | 10.07 <br> 17.92 MB | Easy |
 | 389 | Find The Difference | C <br> Python 3 | 0 ms <br> 3 ms | 8.82 MB <br> 17.72 MB | Easy |
-| 412 | Fizz Buzz | C <br> Python 3 | 3 ms <br> 0 ms | 11.14 MB <br> 18.26 MB | Easy |
+| 412 | Fizz Buzz | C <br> Python 3 | 3 ms <br> 0 ms | 11.07 MB <br> 18.26 MB | Easy |
