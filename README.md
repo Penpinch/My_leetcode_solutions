@@ -12,5 +12,6 @@
 | 35 | Search Insert Position | C | 0 | 9.05 | Easy |
 | 58 | Length Of Last Word | C <br> Python 3 | 0 <br> 0 | 8.80 <br> 17.63 | Easy |
 | 66 | Plus One | C <br> Python 3 | 0 <br> 0 | 10.07 <br> 17.92 | Easy |
+| 67 | Add Binary | C | 0 | 8.82 | Easy |
 | 389 | Find The Difference | C <br> Python 3 | 0 <br> 3 | 8.82 <br> 17.72 | Easy |
 | 412 | Fizz Buzz | C <br> Python 3 | 3 <br> 0 | 11.07 <br> 18.26 | Easy |
