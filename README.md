@@ -6,6 +6,7 @@
 | :----: | :------ | :-------: | :---------: | :--------: | :--------: |
 | 1 | Two Sum | C <br> Python 3 | 199 <br> 0 | 9.51 <br> 19.11 | Easy |
 | 9 | Palindrome Number | C <br> Python 3 | 4 <br> 11 | 8.84 <br> 19.28 | Easy |
+| 13 | Roman To Integer | C | 27 | 15.20 | Easy |
 | 26 | Remove Duplicates From Sorted Array | C | 898 | 12.94 | Easy |
 | 27 | Remove Element | C | 0 | 10.33 | Easy |
 | 28 | Find The Index Of The First Occurrence In A String | C | 131 | 8.94 | Easy |
