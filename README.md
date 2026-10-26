@@ -17,5 +17,6 @@
 | 69 | Sqrt(x) | C | 0 | 9.32 | Easy |
 | 70 | Climbing Stairs | C | 0 | 8.36 | Easy |
 | 94 | Binary Tree Inorder Traversal | C | 0 | 9.12 | Easy |
+| 110 | Balanced Binary Tree | C | 0 | 12.93 | Easy |
 | 389 | Find The Difference | C <br> Python 3 | 0 <br> 3 | 8.82 <br> 17.72 | Easy |
 | 412 | Fizz Buzz | C <br> Python 3 | 3 <br> 0 | 11.07 <br> 18.26 | Easy |
